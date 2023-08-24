@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "CRX Vanilla",
+  "version": "1.0.0",
+  "description": "CRX Vanilla",
+  "action": {
+    "default_popup": "./popup/popup.html"
+  },
+  "icons": {
+    "128": "logo.png"
+  }
+}
