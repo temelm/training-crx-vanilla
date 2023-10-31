@@ -23,7 +23,7 @@
   },
   "web_accessible_resources": [
     {
-      "resources": ["./devtools/panel/index.html"],
+      "resources": ["devtools/panel/index.html"],
       "matches": ["<all_urls>"]
     }
   ]
